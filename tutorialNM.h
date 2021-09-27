@@ -20,6 +20,6 @@ Description      : myNM.h
 extern double factorial(double _x);
 extern double sinTaylor(double x);
 extern double sindTaylor(double x);
-extern double sinTaylor(double x);
+extern double sindTaylor(double x);
 
 #endif
